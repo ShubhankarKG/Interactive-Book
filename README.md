@@ -1,6 +1,6 @@
 
 # Interactive-Book
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/ShubhankarKG/Interactive-Book)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ShubhankarKG/Interactive-Book)
 
 ![download](https://user-images.githubusercontent.com/35162705/69917985-7f323900-1492-11ea-994e-6c2bdc999cc0.png)
 
