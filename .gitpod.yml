@@ -12,5 +12,5 @@ tasks:
       rvm install 2.6.5 &&
       gem install jekyll && 
       gem install bundler &&
-      bundle install # runs during prebuild
-    command: bundle exec jekyll serve
+       # runs during prebuild
+    command: bundle install && bundle exec jekyll serve
